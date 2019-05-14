@@ -1,0 +1,21 @@
+
+
+.myformfieldValidationerror {
+	font-size:small; color: hotpink; padding-bottom:1rem;
+}
+
+/* Debugging */
+.backgroundTemplate1,
+.backgroundTemplate2 {
+	padding:1rem;
+	border-radius: 10px;
+}
+
+.backgroundTemplate1 {
+	background-color: #a6e7ff;
+}
+
+.backgroundTemplate2 {
+	/* Yellow green */
+	background-color: #e2ffc3;
+}
