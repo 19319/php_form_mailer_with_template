@@ -71,7 +71,8 @@ class MyFormfield
 				// Add error message to this field
 				$message = array();
 				$message['type'] = 'required';
-				$message['message'] = 'Bitte ausf&uuml;llen';
+				//$message['message'] = 'Bitte ausf&uuml;llen';
+				$message['message'] = 'Please fill in';
 				$this->addErrorMessage($message);
 			}
 
